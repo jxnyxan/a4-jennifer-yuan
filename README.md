@@ -15,8 +15,6 @@ One of the main challenges I faced was implementing the game animation using the
 
 Another challenge was connecting the user interface controls to the game logic so that changing the settings would immediately affect gameplay.
 
-I used JavaScript's requestAnimationFrame() to create the animation loop and the Canvas API to draw the background, creatures, Pokéballs, and particle effects.
-
 ## AI Use
 
 I used ChatGPT to help plan the project, implement the HTML Canvas game, edit JavaScript animation and collision detection logic, troubleshoot errors, and improve the HTML, CSS, and Express implementation.
