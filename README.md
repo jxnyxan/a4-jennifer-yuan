@@ -15,6 +15,25 @@ One of the main challenges I faced was implementing the game animation using the
 
 Another challenge was connecting the user interface controls to the game logic so that changing the settings would immediately affect gameplay.
 
+## Technologies Used
+
+- JavaScript
+- HTML Canvas API
+- HTML/CSS
+- Node.js
+- Express
+
+## How to Play
+
+1. Click Start Game.
+2. Click on the game field to throw a Pokéball.
+3. Aim at moving Pokémon to catch them.
+4. Earn points for successful catches.
+5. Adjust the settings to customize gameplay.
+6. Use Pause to stop the game.
+7. Use Restart to begin again.
+
+
 ## AI Use
 
 I used ChatGPT to help plan the project, implement the HTML Canvas game, edit JavaScript animation and collision detection logic, troubleshoot errors, and improve the HTML, CSS, and Express implementation.
